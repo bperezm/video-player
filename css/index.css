@@ -1,4 +1,4 @@
-@import url('/css/buttons.css');
+@import url('./buttons.css');
 
 body {
   background-color: aqua;
